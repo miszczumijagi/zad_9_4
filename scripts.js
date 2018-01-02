@@ -6,6 +6,6 @@ function drawTree (k) {
 			star += '*';
 		}
 		console.log(star);
-  }	
+  	}	
 }
-console.log(drawTree(5));
+drawTree(5);
